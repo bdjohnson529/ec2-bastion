@@ -1,0 +1,1 @@
+\copy patients(first_name, last_name, email, gender, id) FROM 'data/patients.csv' WITH DELIMITER ',' CSV HEADER;
