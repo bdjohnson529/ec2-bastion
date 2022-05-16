@@ -15,6 +15,22 @@ psql -U postgres -p 5432 -h $RDSHOST
 ## Snowflake
 Connection parameters are saved in `~/.snowsql/config`.
 
+Execute SQL on Snowflake server
+```
+snowsql -f filename.sql
+```
+
+Load data to Snowflake
+```
+REMOVE @my_csv_stage PATTERN='.*.csv.gz';
+
+PUT file:///Users/benjohnson/Deployment/ec2-bastion/snowflake/patients.csv @my_csv_stage AUTO_COMPRESS=TRUE;
+
+COPY INTO PATIENTS
+  FROM @my_csv_stage/patients.csv.gz
+  FILE_FORMAT = (FORMAT_NAME = mycsvformat)
+  ON_ERROR = 'skip_file';
+```
 ## Commands
 Connect to postgres
 ```

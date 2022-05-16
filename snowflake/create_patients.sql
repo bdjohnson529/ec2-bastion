@@ -7,5 +7,6 @@ CREATE TABLE patients (
     email              varchar(100),
     billing_street     varchar(100),
     billing_city       varchar(100),
-    billing_state      varchar(100)
+    billing_state      varchar(100),
+    billing_zip        varchar(5)
 );
