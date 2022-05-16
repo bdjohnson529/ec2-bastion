@@ -1,0 +1,101 @@
+id,name,city,state,zip,num_patients,num_providers
+1,Weissnat-Stamm,Cleveland,Ohio,44118,5,6
+2,"Feil, Ziemann and Luettgen",Fairfax,Virginia,22036,98,4
+3,"Breitenberg, Berge and Reinger",Lehigh Acres,Florida,33972,36,10
+4,Rodriguez Group,Chattanooga,Tennessee,37410,82,4
+5,Roberts Group,Phoenix,Arizona,85010,82,2
+6,"Bogisich, Stokes and Armstrong",Philadelphia,Pennsylvania,19146,17,6
+7,Hills LLC,Cincinnati,Ohio,45218,55,9
+8,Lowe and Sons,Bronx,New York,10459,2,5
+9,Haag-Satterfield,Phoenix,Arizona,85025,74,6
+10,Tillman Group,Waterbury,Connecticut,06705,69,2
+11,Donnelly Inc,Arlington,Virginia,22234,78,5
+12,Spencer-Blanda,Oklahoma City,Oklahoma,73114,4,10
+13,Will-Satterfield,Carol Stream,Illinois,60158,41,7
+14,Mosciski Group,Erie,Pennsylvania,16522,43,9
+15,"O'Reilly, Kub and Kerluke",San Antonio,Texas,78255,48,6
+16,"West, Friesen and Tromp",Woburn,Massachusetts,01813,38,9
+17,"Toy, Ankunding and Bernhard",Baltimore,Maryland,21281,22,6
+18,"Jenkins, Reynolds and Lynch",Edmond,Oklahoma,73034,35,1
+19,"Hilll, Wiza and Parker",Fresno,California,93773,81,8
+20,Lynch-Hoeger,Miami,Florida,33129,35,7
+21,O'Hara-Stanton,Jacksonville,Florida,32215,4,4
+22,Hane-Stark,West Palm Beach,Florida,33421,94,6
+23,"Labadie, Howe and Adams",Torrance,California,90505,59,6
+24,Witting Group,Little Rock,Arkansas,72204,31,3
+25,D'Amore LLC,Miami Beach,Florida,33141,41,3
+26,Orn LLC,Aurora,Colorado,80015,61,6
+27,Ratke-Durgan,Santa Monica,California,90405,19,5
+28,Bruen Group,Indianapolis,Indiana,46202,65,9
+29,Reichel and Sons,Washington,District of Columbia,20226,48,1
+30,"Labadie, Olson and Carter",Springfield,Illinois,62776,55,5
+31,Mante and Sons,Beaumont,Texas,77705,97,10
+32,Dach LLC,Canton,Ohio,44720,81,1
+33,Jerde-Turcotte,Sacramento,California,95838,21,3
+34,"O'Keefe, Medhurst and O'Keefe",Wichita,Kansas,67205,37,5
+35,Kutch-Kuhlman,Lansing,Michigan,48901,31,3
+36,Gottlieb-Hilpert,Memphis,Tennessee,38168,92,4
+37,McKenzie Group,Shawnee Mission,Kansas,66205,51,2
+38,Connelly-Runte,Washington,District of Columbia,20220,90,9
+39,"Mitchell, Kertzmann and Hills",Dallas,Texas,75372,8,1
+40,Von Inc,Baton Rouge,Louisiana,70883,27,10
+41,"Spinka, Predovic and Gutkowski",Ocala,Florida,34479,37,10
+42,"Rohan, Ortiz and Braun",Philadelphia,Pennsylvania,19125,85,4
+43,Lockman Inc,Washington,District of Columbia,20226,51,9
+44,"Mann, Reinger and Lesch",Augusta,Georgia,30919,48,8
+45,Gleichner-Walker,Suffolk,Virginia,23436,92,1
+46,"Hickle, Upton and Moore",Topeka,Kansas,66699,64,4
+47,Boehm-Schuppe,Springfield,Massachusetts,01105,45,4
+48,Shields-Orn,Milwaukee,Wisconsin,53234,86,8
+49,"Wyman, Goldner and Goldner",Amarillo,Texas,79118,78,4
+50,"Nikolaus, Hoeger and Ledner",Phoenix,Arizona,85077,89,8
+51,Murphy-Kunze,Roanoke,Virginia,24024,52,4
+52,Langosh-Leuschke,Saint Paul,Minnesota,55114,23,1
+53,"Ratke, Kohler and Kreiger",Louisville,Kentucky,40225,25,9
+54,"Steuber, Howell and Spencer",Cincinnati,Ohio,45238,48,10
+55,Schowalter-Homenick,Largo,Florida,34643,49,10
+56,Kohler and Sons,Independence,Missouri,64054,46,1
+57,Morissette-Huel,Indianapolis,Indiana,46278,61,1
+58,Greenfelder-Johnson,Washington,District of Columbia,20078,19,1
+59,Turcotte LLC,Santa Rosa,California,95405,56,8
+60,Hodkiewicz Group,Columbus,Ohio,43204,55,10
+61,Koss and Sons,Birmingham,Alabama,35231,52,9
+62,Sawayn Group,El Paso,Texas,79950,29,1
+63,Donnelly Group,Lubbock,Texas,79410,30,4
+64,"Murray, Tremblay and Haley",Miami,Florida,33245,10,7
+65,Weimann-Streich,Charlotte,North Carolina,28284,53,8
+66,Cormier-Glover,San Francisco,California,94121,16,6
+67,Padberg-Kuphal,Cincinnati,Ohio,45296,62,4
+68,"McDermott, Cassin and Mills",Clearwater,Florida,33763,12,5
+69,Lockman Group,Las Vegas,Nevada,89135,10,1
+70,Murphy Group,Topeka,Kansas,66642,54,6
+71,Grimes Inc,Sacramento,California,95865,62,5
+72,"Dare, Strosin and Abshire",Omaha,Nebraska,68164,26,10
+73,Graham-Konopelski,Vancouver,Washington,98664,39,3
+74,"Koepp, Ruecker and Block",Buffalo,New York,14205,94,10
+75,Waters Inc,Seattle,Washington,98127,28,4
+76,Schmeler-Huel,Corpus Christi,Texas,78426,37,4
+77,"Lakin, Haag and Beier",Minneapolis,Minnesota,55417,72,6
+78,Kovacek Group,Katy,Texas,77493,90,9
+79,"Bins, Mraz and Pouros",Woburn,Massachusetts,01813,78,3
+80,Torphy Inc,Greenville,South Carolina,29610,52,2
+81,Swift-Kuhlman,Philadelphia,Pennsylvania,19172,43,7
+82,Aufderhar-Jones,Chula Vista,California,91913,8,3
+83,"Dibbert, Pagac and Fadel",Louisville,Kentucky,40215,6,1
+84,Schultz-Hegmann,Akron,Ohio,44329,89,6
+85,Smith-Bauch,Paterson,New Jersey,07522,80,1
+86,Conn Inc,Hamilton,Ohio,45020,19,5
+87,Hayes-Kling,Columbus,Georgia,31904,19,9
+88,Connelly-Gleason,San Diego,California,92121,47,5
+89,Dooley-Hauck,Provo,Utah,84605,45,4
+90,Collins and Sons,Memphis,Tennessee,38104,54,8
+91,Grant-Connelly,Oklahoma City,Oklahoma,73119,75,4
+92,"Zulauf, Braun and Hamill",Fresno,California,93794,98,10
+93,Hilll-Goldner,Dallas,Texas,75353,10,1
+94,Ruecker Inc,Atlanta,Georgia,31132,9,1
+95,Johnson Inc,Buffalo,New York,14225,36,10
+96,Morissette and Sons,Atlanta,Georgia,30316,68,5
+97,Dibbert Group,Nashville,Tennessee,37245,33,2
+98,Cassin-Gerlach,Jamaica,New York,11480,31,4
+99,Smitham-Reilly,Oklahoma City,Oklahoma,73119,97,4
+100,"Conroy, Ebert and Mueller",Phoenix,Arizona,85067,6,1
