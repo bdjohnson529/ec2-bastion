@@ -1,0 +1,1 @@
+\copy process(id, name, active_task_key) FROM 'postgres/workflows/Processes.csv' WITH DELIMITER ',' CSV HEADER;

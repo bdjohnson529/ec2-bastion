@@ -1,0 +1,1 @@
+\copy tasks(process_id, name, assignee, email) FROM 'postgres/workflows/Tasks.csv' WITH DELIMITER ',' CSV HEADER;
